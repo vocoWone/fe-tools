@@ -9,3 +9,5 @@
 ### [super-editor](https://github.com/vocoWone/super-editor): 富文本编辑器
 
 ### [fe-base-kit](https://github.com/vocoWone/fe-base-kit): 基础工具库
+
+### [next-plugin-component-less](https://github.com/vocoWone/next-plugin-component-less): Next 支持自定义组件(Less)插件
